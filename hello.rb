@@ -15,7 +15,6 @@ def fizzbuzz(n)
 end
 puts "Hello World!\n"
 puts "Hello World!\n"
-puts "Hello World!\n"
-puts "Hello World!\n"
-puts "Hello World!\n"
+puts fizzbuzz(15)
+puts fizzbuzz(15)
 puts fizzbuzz(15)
