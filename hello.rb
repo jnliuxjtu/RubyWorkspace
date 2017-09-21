@@ -13,7 +13,10 @@ def fizzbuzz(n)
     end
     return ans
 end
+<<<<<<< HEAD
 #111
+=======
+>>>>>>> ee0f040b8a8f42d5c4da249fc86fa5604d108f85
 #333
 puts "Hello World!\n"
 puts "Hello World!\n"
